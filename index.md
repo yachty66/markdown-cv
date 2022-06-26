@@ -47,7 +47,7 @@ B.Sc. Applied Computer Science with focus on machine learning and biology
 
 ## Personality
 
-**On demand**, IPIP-120, MyersBriggs, DiSC, Ray Dalio
+**On demand**: IPIP-120, MyersBriggs, DiSC, Ray Dalio
 
 ## IT skills
 
