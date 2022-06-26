@@ -1,91 +1,111 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Max Hagers's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Max Hager
+
+
+Applied Computer Science Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    <a href = "mailto: maxhager28@gmail.com">maxhager28@gmail.com</a>
+    <a href="https://github.com/yachty66">github.com/yachty66</a>
+    <a href="https://twitter.com/MaxHager66">@MaxHager66</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+B.Sc. Applied Computer Science at HTW Berlin
 
-### Specialized in
+## Future
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Cinference GmbH?:)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2019`
+**Berufliches Schulzentrum Vogtland, für Wirtschaft und Informatik**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2020 - now`
+**Hochschule für Technik und Wirtschaft Berlin**, Focus on machine learning and biology
 
-- Sizar
+## Work
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2017 - 2019`
+**Roofer**, Helped in family business with office support and craft
 
-- Fellow
+`05 - 08/2020`
+**Hackclub**, HR startup - worked with CEO together on scaling
 
+`08 - 09/2020`
+**Leeway**, Stockmarket prediction Startup - worked on codebase
 
+`01 - 03/2021`
+**Techspring**, IT services - worked on codebase for sustainability project
 
-## Awards
+## Personality
 
-`2012`
-President, *Royal Society*, London, UK
+**On demand**, IPIP-120, MyersBriggs, DiSC, Ray Dalio
 
-Associate, *French Academy of Science*, Paris, France
+## IT skills
 
+**Web**: JavaScript, HTML, CSS
 
+**Backend/General**: Python, Java, Scala, C#
 
-## Publications
+**Libraries**: React, React Native, Tensorflow, PyTorch
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Projects
 
-### Journals
+### EEG
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Rebuild from here http://openeeg.sourceforge.net/doc/
 
-`1669`
-Lectiones opticæ.
+### [Openblog](https://www.openblog.ai/)
 
-etc. etc. etc.
+Machine learning community with blogging about ML topics
 
-### Patents
+### [BrainStimula](https://www.brainstimula.com/)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Webapp for focus music
 
+### [Educrispr](https://www.educrispr.com/)
 
-## Occupation
+Online shop for CRISPR
 
-`1600`
-__Royal Mint__, London
+### Online Education
 
-- Warden
-- Minted coins
+Course for reinforcement learning with Unity 
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Competetive Programming
 
+Rosalind, Project Euler, Kaggle, AIcrowd
 
+### TensorFlow Developer Certificate
 
-<!-- ### Footer
+CNN'S, NLP, Sequences, Time Series and Prediction
 
-Last updated: May 2013 -->
+### Keylogger Statistics
+
+Personal keystroke analyzer 
+
+## Smaller Web Dev Projects
+
+[Family tree](https://www.meinel.world/), [Hackathon website](https://www.techwizards.ai/), [Hardtechno event](https://www.subatomicblack.com/), [Machine learning community hous](https://www.intelligencehouse.org/), [Others](https://www.meinel-dach.com/)
+
+## Languages 
+
+### German 
+
+Native
+
+### English 
+
+Fluent
+
+## Interests
+
+Reading, Competetive Programming, Chess, Sports, Meditation
 
 
