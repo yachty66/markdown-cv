@@ -18,10 +18,6 @@ Applied Computer Science Student.
 
 B.Sc. Applied Computer Science at HTW Berlin
 
-## Future
-
-Cinference GmbH?:)
-
 ## Education
 
 `2017 - 2019`
