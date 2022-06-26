@@ -93,7 +93,7 @@ Personal keystroke analyzer
 
 ## Smaller Web Dev Projects
 
-[Family tree](https://www.meinel.world/), [Hackathon website](https://www.techwizards.ai/), [Hardtechno event](https://www.subatomicblack.com/), [Machine learning community hous](https://www.intelligencehouse.org/), [Others](https://www.meinel-dach.com/)
+[Family Tree](https://www.meinel.world/), [Hackathon](https://www.techwizards.ai/), [Hardtechno](https://www.subatomicblack.com/), [Machine Learning Community House](https://www.intelligencehouse.org/), [Others](https://www.meinel-dach.com/)
 
 ## Languages 
 
