@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Max Hagers's CV
+title: Max Hager CV
 ---
 
 # Max Hager
