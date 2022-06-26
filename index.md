@@ -28,7 +28,8 @@ Cinference GmbH?:)
 **Berufliches Schulzentrum Vogtland, für Wirtschaft und Informatik**
 
 `2020 - now`
-**Hochschule für Technik und Wirtschaft Berlin**, Focus on machine learning and biology
+**Hochschule für Technik und Wirtschaft Berlin**, 
+B.Sc. Applied Computer Science with focus on machine learning and biology
 
 ## Work
 
