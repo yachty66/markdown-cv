@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Max Hager CV
+title: Max Hagers's CV
 ---
 
 # Max Hager
@@ -16,7 +16,7 @@ Applied Computer Science Student.
 
 ## Currently
 
-B.Sc. Applied Computer Science at HTW Berlin
+B.Sc. Applied Computer Science at HTW Berlin, Intern KIWI-biolab
 
 ## Education
 
@@ -24,8 +24,7 @@ B.Sc. Applied Computer Science at HTW Berlin
 **Berufliches Schulzentrum Vogtland, für Wirtschaft und Informatik**
 
 `2020 - now`
-**Hochschule für Technik und Wirtschaft Berlin**, 
-B.Sc. Applied Computer Science with focus on machine learning and biology
+**Hochschule für Technik und Wirtschaft Berlin**, Focus on machine learning and biology
 
 ## Work
 
@@ -41,55 +40,38 @@ B.Sc. Applied Computer Science with focus on machine learning and biology
 `01 - 03/2021`
 **Techspring**, IT services - worked on codebase for sustainability project
 
+`04 - 02/2022`
+**Techspring**, Worked on various personal projects
+
+`02 - 06/2022`
+**Independent Internship**, Creation of machine learning course, contributions to AGI techtree from Foresight, HIIT app
+
+`10/2022 - now`
+**KIWI-biolab**, Using Python library to automate liquid handling experiment with robot
+
+
+
 ## Personality
 
-**On demand**: IPIP-120, MyersBriggs, DiSC, Ray Dalio
+**On demand**, IPIP-120, MyersBriggs, DiSC, Ray Dalio
 
 ## IT skills
 
 **Web**: JavaScript, HTML, CSS
 
-**Backend/General**: Python, Java, Scala, C#
+**Backend/General**: Python, Java, Scala, C#, MATLAB
 
-**Libraries**: React, React Native, Tensorflow, PyTorch
+**Libraries**: React, React Native, Tensorflow, PyTorch, Hugging Face, PyLabRobot, Beautiful Soup, NumPy
+
+**DevOps**: GitHub, Google Cloud Platform, AWS, Netlify, Flask
 
 ## Projects
 
-### EEG
+I started listing my projects [here](https://www.maxhager.xyz/). Some of my older projects are on [GitHub](https://github.com/yachty66).
 
-Rebuild from here http://openeeg.sourceforge.net/doc/
+## Hackathons 
 
-### [Openblog](https://www.openblog.ai/)
-
-Machine learning community with blogging about ML topics
-
-### [BrainStimula](https://www.brainstimula.com/)
-
-Webapp for focus music
-
-### [Educrispr](https://www.educrispr.com/)
-
-Online shop for CRISPR
-
-### Online Education
-
-Course for reinforcement learning with Unity 
-
-### Competetive Programming
-
-Rosalind, Project Euler, Kaggle, AIcrowd
-
-### TensorFlow Developer Certificate
-
-CNN'S, NLP, Sequences, Time Series and Prediction
-
-### Keylogger Statistics
-
-Personal keystroke analyzer 
-
-## Smaller Web Dev Projects
-
-[Family Tree](https://www.meinel.world/), [Hackathon](https://www.techwizards.ai/), [Hardtechno](https://www.subatomicblack.com/), [Machine Learning Community House](https://www.intelligencehouse.org/), [Others](https://www.meinel-dach.com/)
+HackZurich, //Slash
 
 ## Languages 
 
@@ -103,6 +85,5 @@ Fluent
 
 ## Interests
 
-Reading, Competetive Programming, Chess, Sports, Meditation
-
+I like reading a lot because it allows me to aquire knowledge which helps me to better understand the world. I track my books [here](https://www.goodreads.com/user/show/118878574-max-hager) and papers [here](https://docs.google.com/spreadsheets/d/1noxRUYLUErYRgLNqh8eCceh41bSaRSQXW-Pz3WBKUL8/edit?usp=sharing). Competetive Programming, chess and poker are mindgames which I like because of its logical/mathematical components. Exercise and meditation help me calm my mind and feel healthy.
 
