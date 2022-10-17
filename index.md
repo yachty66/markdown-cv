@@ -46,7 +46,7 @@ B.Sc. Applied Computer Science at HTW Berlin, Intern KIWI-biolab
 `02 - 06/2022`
 **Independent Internship**, Creation of machine learning course, contributions to AGI techtree from Foresight, HIIT app
 
-`04.10.2022 - now`
+`10/2022 - now`
 **KIWI-biolab**, Using Python library to automate liquid handling experiment with robot
 
 
